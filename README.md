@@ -78,6 +78,24 @@
 
 
 
+### :ocean: Some of my interested  things
+![Java](https://img.shields.io/badge/-Java-blue?labelColor=515151&logo=java&logoColor=red)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?labelColor=515151&logo=Serverless)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?labelColor=515151&logo=Docker)
+![Hexo](https://img.shields.io/badge/-Hexo-0E83CD?labelColor=515151&logo=Hexo)
+![VMware](https://img.shields.io/badge/-VMware-607078?labelColor=515151&logo=VMware&logoColor=607078)
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?labelColor=515151&logo=Redis&logoColor=DC382D)
+![Dubbo](https://img.shields.io/badge/-Dubbo-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?labelColor=515151&logo=LeetCode)
+
+
+
+### Concerns in life
+![Tesla](https://img.shields.io/badge/-Tesla-CC0000?labelColor=515151&logo=Tesla)
+![DJI](https://img.shields.io/badge/i-DJI-F7931A?labelColor=515151&logo=Django)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?labelColor=515151&logo=Bitcoin)
+
 
 
 
