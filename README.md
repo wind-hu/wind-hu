@@ -38,19 +38,30 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?labelColor=515151&logo=Redis&logoColor=DC382D)
 ![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?labelColor=515151&logo=apache-rocketMQ&logoColor=D77310)
 ![MinIO](https://img.shields.io/badge/-MinIO-c72c48?labelColor=515151&logo=Files)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?labelColor=515151&logo=Jenkins)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?labelColor=515151&logo=apache-jMeter)
 
 <!-- DB -->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?labelColor=515151&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?labelColor=515151&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?labelColor=515151&logo=PostgreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?labelColor=515151&logo=MongoDB)
 
 <!-- 操作系统 -->
-![CentOS](https://img.shields.io/badge/-CentOS-262577?labelColor=515151&logo=CentOS)
-![Linux](https://img.shields.io/badge/-Linux-262577?labelColor=515151&logo=Linux)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?labelColor=515151&logo=CentOS&logoColor=262577)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?labelColor=515151&logo=Linux)
+![Vim](https://img.shields.io/badge/-Vim-019733?labelColor=515151&logo=Vim&logoColor=019733)
+
+<!--  -->
+![IntelliJIdea](https://img.shields.io/badge/-IntellijIdea-000000?labelColor=515151&logo=intelliJ-iDEA)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?labelColor=515151&logo=WebStorm)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?labelColor=515151&logo=Markdown)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?labelColor=515151&logo=visual-studio-code&logoColor=007ACC)
+
+<!-- -->
+![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?labelColor=515151&logo=stack-overflow)
 
 
-
-
+visualstudiocode
 
 
 
