@@ -87,12 +87,13 @@
 ![Dubbo](https://img.shields.io/badge/-Dubbo-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?labelColor=515151&logo=LeetCode)
 
-### Concerns in life
+### :sunny: Life beyond coding
 ![Tesla](https://img.shields.io/badge/-Tesla-CC0000?labelColor=515151&logo=Tesla)
+![TikTok](https://img.shields.io/badge/-TikTok-000000?labelColor=515151&logo=TikTok)
 ![DJI](https://img.shields.io/badge/i-DJI-F7931A?labelColor=515151&logo=Django)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?labelColor=515151&logo=Bitcoin)
 
-### WebSite
+### :link: WebSite
 GitHub: https://wind-hu.github.io
 
 China:  https://wind-hu.gitee.io
