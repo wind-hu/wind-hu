@@ -24,12 +24,12 @@
 ![Spring](https://img.shields.io/badge/-Spring-green?labelColor=515151&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?labelColor=515151&logo=Spring)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-green?labelColor=515151&logo=iCloud&logoColor=green)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?labelColor=515151&logo=apache-maven&logoColor=C71A36)
-![TomCat](https://img.shields.io/badge/-TomCat-F8DC75?labelColor=515151&logo=apache-tomCat)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&labelColor=515151&logoColor=D22128)
-![Zookeeper](https://img.shields.io/badge/-Zookeeper-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
-![Dubbo](https://img.shields.io/badge/-Dubbo-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?labelColor=515151&logo=MySQL)
+![Maven](https://img.shields.io/badge/-Maven-green?labelColor=515151&logo=apache-maven&logoColor=C71A36)
+![TomCat](https://img.shields.io/badge/-TomCat-green?labelColor=515151&logo=apache-tomCat)
+![Apache](https://img.shields.io/badge/-Apache-green?logo=Apache&labelColor=515151&logoColor=D22128)
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-green?labelColor=515151&logo=Apache&logoColor=D22128)
+![Dubbo](https://img.shields.io/badge/-Dubbo-green?labelColor=515151&logo=Apache&logoColor=D22128)
+![MySQL](https://img.shields.io/badge/-MySQL-green?labelColor=515151&logo=MySQL)
 
 
 
