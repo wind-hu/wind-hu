@@ -21,16 +21,32 @@
 
 
 ### :telescope: Other technology stacks
+<!-- 框架 -->
 ![Spring](https://img.shields.io/badge/-Spring-green?labelColor=515151&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?labelColor=515151&logo=Spring)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-green?labelColor=515151&logo=iCloud&logoColor=green)
-![Maven](https://img.shields.io/badge/-Maven-green?labelColor=515151&logo=apache-maven&logoColor=C71A36)
-![TomCat](https://img.shields.io/badge/-TomCat-green?labelColor=515151&logo=apache-tomCat)
-![Apache](https://img.shields.io/badge/-Apache-green?logo=Apache&labelColor=515151&logoColor=D22128)
-![Zookeeper](https://img.shields.io/badge/-Zookeeper-green?labelColor=515151&logo=Apache&logoColor=D22128)
-![Dubbo](https://img.shields.io/badge/-Dubbo-green?labelColor=515151&logo=Apache&logoColor=D22128)
-![MySQL](https://img.shields.io/badge/-MySQL-green?labelColor=515151&logo=MySQL)
+![Dubbo](https://img.shields.io/badge/-Dubbo-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
+![Mybatis](https://img.shields.io/badge/-Mybatis-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
+![MybatisPlus](https://img.shields.io/badge/-MybatisPlus-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?labelColor=515151&logo=Swagger&logoColor=85EA2D)
 
+<!-- 中间件 -->
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&labelColor=515151&logoColor=D22128)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?labelColor=515151&logo=apache-maven&logoColor=C71A36)
+![TomCat](https://img.shields.io/badge/-TomCat-F8DC75?labelColor=515151&logo=apache-tomCat)
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?labelColor=515151&logo=Redis&logoColor=DC382D)
+![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?labelColor=515151&logo=apache-rocketMQ&logoColor=D77310)
+![MinIO](https://img.shields.io/badge/-MinIO-c72c48?labelColor=515151&logo=Files)
+
+<!-- DB -->
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?labelColor=515151&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?labelColor=515151&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?labelColor=515151&logo=MongoDB)
+
+<!-- 操作系统 -->
+![CentOS](https://img.shields.io/badge/-CentOS-262577?labelColor=515151&logo=CentOS)
+![Linux](https://img.shields.io/badge/-Linux-262577?labelColor=515151&logo=Linux)
 
 
 
