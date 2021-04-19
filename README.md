@@ -69,6 +69,7 @@
 
 <!-- -->
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?labelColor=515151&logo=GitHub)
+![GitHubPages](https://img.shields.io/badge/-GitHubPages-181717?labelColor=515151&logo=GitHub)
 ![Gitee](https://img.shields.io/badge/-Gitee-C71D23?labelColor=515151&logo=Gitee)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?labelColor=515151&logo=GitLab)
 ![Git](https://img.shields.io/badge/-Git-F05032?labelColor=515151&logo=Git)
