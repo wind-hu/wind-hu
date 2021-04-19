@@ -34,17 +34,17 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?labelColor=515151&logo=Bootstrap&logoColor=7952B3)
 
 <!-- 中间件 -->
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&labelColor=515151&logoColor=D22128)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?labelColor=515151&logo=Redis&logoColor=DC382D)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?labelColor=515151&logo=NGINX&logoColor=009639)
+![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?labelColor=515151&logo=apache-rocketMQ&logoColor=D77310)
+![MinIO](https://img.shields.io/badge/-MinIO-c72c48?labelColor=515151&logo=Files)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?labelColor=515151&logo=apache-jMeter&logoColor=D22128)
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&labelColor=515151&logoColor=D22128)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?labelColor=515151&logo=apache-maven&logoColor=C71A36)
 ![TomCat](https://img.shields.io/badge/-TomCat-F8DC75?labelColor=515151&logo=apache-tomCat)
 ![Zookeeper](https://img.shields.io/badge/-Zookeeper-D22128?labelColor=515151&logo=Apache&logoColor=D22128)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?labelColor=515151&logo=Redis&logoColor=DC382D)
-![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?labelColor=515151&logo=apache-rocketMQ&logoColor=D77310)
-![MinIO](https://img.shields.io/badge/-MinIO-c72c48?labelColor=515151&logo=Files)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?labelColor=515151&logo=Jenkins)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?labelColor=515151&logo=SonarQube)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?labelColor=515151&logo=apache-jMeter&logoColor=D22128)
 ![PostMan](https://img.shields.io/badge/-PostMan-FF6C37?labelColor=515151&logo=Postman&logoColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?labelColor=515151&logo=Insomnia)
 
