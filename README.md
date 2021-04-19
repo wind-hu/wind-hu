@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?labelColor=515151&logo=JavaScript)
 
 
-### :telescope: Other technology stacks
+### :telescope: technology stacks
 <!-- 框架 -->
 ![Spring](https://img.shields.io/badge/-Spring-green?labelColor=515151&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?labelColor=515151&logo=Spring)
